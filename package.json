@@ -41,7 +41,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sidcaz/hello-world.git"
+    "url": "https://github.com/sidcaz/hello-world"
   },
   "author": "sidney cazeno",
   "license": "ISC",
